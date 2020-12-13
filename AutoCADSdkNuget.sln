@@ -5,6 +5,12 @@ VisualStudioVersion = 16.0.30320.27
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoCAD2019.Base", "AutoCAD2019.Base\AutoCAD2019.Base.csproj", "{DF8BF611-6181-4695-B548-E5E8AC186FE8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoCAD2020.Base", "AutoCAD2020.Base\AutoCAD2020.Base.csproj", "{7B4D13C7-AFFB-400B-B2D0-6E5D71B8FF47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoCAD2018.Base", "AutoCAD2018.Base\AutoCAD2018.Base.csproj", "{F789B9FD-8951-4EFA-ACDB-8E00524CC303}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoCAD2021.Base", "AutoCAD2021.Base\AutoCAD2021.Base.csproj", "{46232B4F-A152-40D1-AA66-ED079E8EFA27}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{DF8BF611-6181-4695-B548-E5E8AC186FE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF8BF611-6181-4695-B548-E5E8AC186FE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF8BF611-6181-4695-B548-E5E8AC186FE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B4D13C7-AFFB-400B-B2D0-6E5D71B8FF47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B4D13C7-AFFB-400B-B2D0-6E5D71B8FF47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B4D13C7-AFFB-400B-B2D0-6E5D71B8FF47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B4D13C7-AFFB-400B-B2D0-6E5D71B8FF47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F789B9FD-8951-4EFA-ACDB-8E00524CC303}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F789B9FD-8951-4EFA-ACDB-8E00524CC303}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F789B9FD-8951-4EFA-ACDB-8E00524CC303}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F789B9FD-8951-4EFA-ACDB-8E00524CC303}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46232B4F-A152-40D1-AA66-ED079E8EFA27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46232B4F-A152-40D1-AA66-ED079E8EFA27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46232B4F-A152-40D1-AA66-ED079E8EFA27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46232B4F-A152-40D1-AA66-ED079E8EFA27}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

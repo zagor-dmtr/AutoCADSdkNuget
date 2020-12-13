@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package >
   <metadata>
-    <id>AutoCAD2019.Base</id>
-    <version>1.0.3</version>   
+    <id>AutoCAD2018.Base</id>
+    <version>1.0.0</version>   
     <authors>Dmitriy Zagorulkin</authors>    
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <license type="expression">MIT</license>    
     <description>Autodesk© AutoCAD© base .NET SDK libraries</description>
     <releaseNotes>Initial release</releaseNotes>   
-    <tags>Autodesk AutoCAD 2019 .NET SDK API</tags>
+    <tags>Autodesk AutoCAD 2018 .NET SDK API</tags>
   </metadata>
   <files>
     <file src="bin\Release\*.*" target="lib" exclude="bin\Release\AutoCAD20*.Base.*;bin\Release\install.ps1" />
